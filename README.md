@@ -8,7 +8,7 @@
 |----------|------|-----------|
 | [🏠 아기 모니터링 시스템](./projects/baby-monitoring-system) | 홈캠 기반 실시간 아기 모니터링 | Python, OpenCV |
 | [🌫 미세먼지 농도 예측](./projects/fine-dust-prediction) | PM2.5/PM10 농도 머신러닝 예측 | Python, Scikit-learn |
-| [🚨 실시간 이상행동 탐지](./projects/abnormal-behavior-detection) | CCTV 기반 실시간 이상행동 탐지 | Python, OpenCV, YOLOv8 |
+| [🚨 실시간 이상행동 탐지](./projects/abnormal-behavior-detection) | CCTV 기반 실시간 이상행동 탐지 | Python, OpenCV |
 
 ---
 
@@ -16,9 +16,9 @@
 
 | # | 과제명 | 핵심 기술 |
 |---|--------|-----------|
-| 01 | Harris Corner Detection | 코너 검출, 해리스 행렬 |
-| 02 | SIFT Feature Matching | 특징점 추출 및 매칭 |
-| 03 | Optical Flow | 움직임 추정, LK 알고리즘 |
+| 01 | Harris Corner Detection(./assignments/01_Harris-Corner-Detection) | 코너 검출, 해리스 행렬 |
+| 02 | SIFT Feature Matching(./assignments/02_SIFT-Feature-Matching) | 특징점 추출 및 매칭 |
+| 03 | Optical Flow(./assignments/03_Optical-folw) | 움직임 추정, LK 알고리즘 |
 
 ---
 
@@ -46,9 +46,9 @@ ai-portfolio/
 │   └── abnormal-behavior-detection/
 │
 ├── assignments/               ← 수업 과제
-│   ├── 01_harris-corner/
-│   ├── 02_sift-feature/
-│   └── 03_optical-flow/
+│   ├── 01_Harris-Corner-Detection/
+│   ├── 02_SIFT-Feature-Matching/
+│   └── 03_Optical-Folw/
 │
 └── labs/                      ← 실습 코드
 ```
