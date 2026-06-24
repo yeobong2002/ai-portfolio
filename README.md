@@ -1,17 +1,70 @@
-# ai-portfolio
-ai-portfolio
+# 🎓 AI Graduate Portfolio
+
+> 인공지능학과 대학원 | 컴퓨터비전 · 머신러닝 · LLM 연구
+
+---
 
 ## 👋 소개
-인공지능학과 대학원생 | 컴퓨터비전 · 머신러닝
+
+안녕하세요! 인공지능학과 대학원생 **yeobong2002** 입니다.
+스마트팩토리 IT 솔루션 기업에서 실무 경험을 쌓으며,
+대학원에서 컴퓨터비전과 머신러닝, LLM 연구를 병행하고 있습니다.
+
+---
 
 ## 🗂 프로젝트 목록
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
-| [아기 모니터링 시스템](./projects/baby-monitoring-system) | 홈캠 기반 실시간 모니터링 | Python, OpenCV |
-| [미세먼지 예측](./projects/fine-dust-prediction) | PM2.5/PM10 농도 예측 | Python, Sklearn |
+| [🏠 아기 모니터링 시스템](./projects/baby-monitoring-system) | 홈캠 기반 실시간 아기 모니터링 | Python, OpenCV |
+| [🌫 미세먼지 농도 예측](./projects/fine-dust-prediction) | PM2.5/PM10 농도 머신러닝 예측 | Python, Scikit-learn |
+| [🚨 실시간 이상행동 탐지](./projects/abnormal-behavior-detection) | CCTV 기반 실시간 이상행동 탐지 | Python, OpenCV, YOLOv8 |
+
+---
+
+## 📚 과제 목록
+
+| # | 과제명 | 핵심 기술 |
+|---|--------|-----------|
+| 01 | Harris Corner Detection | 코너 검출, 해리스 행렬 |
+| 02 | SIFT Feature Matching | 특징점 추출 및 매칭 |
+| 03 | Optical Flow | 움직임 추정, LK 알고리즘 |
+
+---
 
 ## 🛠 기술 스택
-- **언어**: Python, JavaScript
-- **CV/ML**: OpenCV, Scikit-learn, PyTorch
-- **기타**: React, eGovFramework
+
+### 대학원 연구
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 실무 개발
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![eGovFramework](https://img.shields.io/badge/eGovFramework-003087?style=flat)
+
+---
+
+## 📁 저장소 구조
+
+```
+ai-portfolio/
+├── projects/                  ← 주요 프로젝트
+│   ├── baby-monitoring-system/
+│   ├── fine-dust-prediction/
+│   └── abnormal-behavior-detection/
+│
+├── assignments/               ← 수업 과제
+│   ├── 01_harris-corner/
+│   ├── 02_sift-feature/
+│   └── 03_optical-flow/
+│
+└── labs/                      ← 실습 코드
+```
+
+---
+
+## 📬 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-yeobong2002-181717?style=flat&logo=github)](https://github.com/yeobong2002)
