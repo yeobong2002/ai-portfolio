@@ -16,9 +16,9 @@
 
 | # | 과제명 | 핵심 기술 |
 |---|--------|-----------|
-| 01 | Harris Corner Detection(./assignments/01_Harris-Corner-Detection) | 코너 검출, 해리스 행렬 |
-| 02 | SIFT Feature Matching(./assignments/02_SIFT-Feature-Matching) | 특징점 추출 및 매칭 |
-| 03 | Optical Flow(./assignments/03_Optical-folw) | 움직임 추정, LK 알고리즘 |
+| 01 | [Harris Corner Detection](./assignments/01_Harris-Corner-Detection) | 코너 검출, 해리스 행렬 |
+| 02 | [SIFT Feature Matching](./assignments/02_SIFT-Feature-Matching) | 특징점 추출 및 매칭 |
+| 03 | [Optical Flow](./assignments/03_Optical-folw) | 움직임 추정, LK 알고리즘 |
 
 ---
 
